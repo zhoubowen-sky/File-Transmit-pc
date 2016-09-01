@@ -27,6 +27,9 @@
 #####PC端程序目录相关说明
 
 > 程序目录中 **github-images-folder** 文件夹与PC端程序无关，里面的图片为Github项目README页面的说明
+> 
+> 许多Windows程序写作者使用一种叫做「匈牙利表示法」的变量命名通则。这是为了纪念传奇性的Microsoft程序写作者Charles Simonyi。非常简单，变量名以一个或者多个小写字母开始，这些字母表示变量的数据型态。例如，szCmdLine中的sz代表「以0结尾的字符串」。在hInstance和hPrevInstance中的h前缀表示「句柄」；在iCmdShow中的i前缀表示「整数」。
+
 
 
 #####PC端程序功能相关说明
